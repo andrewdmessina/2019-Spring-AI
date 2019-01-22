@@ -46,37 +46,36 @@ This schedule will be updated as the class progresses.
 | 03 | 05 | Feb 05, Tue | |
 | 03 | 06 | Feb 07, Thu | |
 | 04 | 07 | Feb 12, Tue | |
-| 04 | 08 | Feb 14, Thu | Revision for Test |
+| 04 | 08 | Feb 14, Thu | |
 | 05 | 09 | Feb 19, Tue | |
-| 05 | 10 | Feb 21, Thu | Test (at 1 month) |
+| 05 | 10 | Feb 21, Thu | Test 1 |
 | 06 | 11 | Feb 26, Tue | |
 | 06 | 12 | Feb 28, Thu | |
 | 07 | 13 | Mar 05, Tue | |
 | 07 | 14 | Mar 07, Thu | |
 | 08 | 15 | Mar 12, Tue | |
 | 08 | 16 | Mar 14, Thu | |
-| 09 | 17 | Mar 19, Tue | |
+| 09 | 17 | Mar 19, Tue | Test 2|
 | 09 | 18 | Mar 21, Thu | |
 | - | - | - | Spring Recess |
 | 10 | 19 | Apr 02, Tue |  |
-| 10 | 20 | Apr 04, Thu | NIPS 2018 Paper Presentations  |
+| 10 | 20 | Apr 04, Thu |  |
 | 11 | 21 | Apr 09, Tue |  |
 | 11 | 22 | Apr 11, Thu |  |
 | 12 | 23 | Apr 16, Tue |  |
-| 12 | 24 | Apr 18, Thu | NIPS 2019 Paper Presentations |
+| 12 | 24 | Apr 18, Thu |  |
 | 13 | 25 | Apr 23, Tue |  |
 | 13 | 26 | Apr 25, Thu |  |
 | 14 | 27 | Apr 30, Tue |  |
 | 14 | 28 | May 02, Thu | Project Code and Report Due |
 | 15 | 29 | May 07, Tue |  |
-| 15 | 30 | May 09, Thu |  |
+| 15 | 30 | May 09, Thu | Test3 |
 | - | - | - | Final Exam - Poster Presentation (Date & Time TBD) |  
 
 ## Course Topics
+**Ch 3 - Solving Problems by Searching**  
 **Ch 1 - Introduction**  
 **Ch 2 - Intelligent Agents** 
-**Ch 3 - Solving Problems by Searching**  
-**Ch 3 - Solving Problems by Searching**  
 **Ch 5 - Adversarial Search**  
 **Ch 6 - Constraint Satisfaction Problems**  
 **Ch 7 - Logical Agents**  
