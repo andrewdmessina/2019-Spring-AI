@@ -73,7 +73,20 @@ This schedule will be updated as the class progresses.
 | - | - | - | Final Exam - Poster Presentation (Date & Time TBD) |  
 
 ## Course Topics
-
+**Ch 1 - Introduction
+**Ch 2 - Intelligent Agents
+**Ch 3 - Solving Problems by Searching
+**Ch 3 - Solving Problems by Searching
+**Ch 5 - Adversarial Search
+**Ch 5 - Adversarial Search
+**Ch 5 - Adversarial Search
+**Ch 6 - Constraint Satisfaction Problems
+**Ch 7 - Logical Agents
+**Ch 6 - Constraint Satisfaction Problems
+**Ch 22 - Natural Language Processing
+**Ch 24 - Perception
+**Ch 25 - Robotics
+**Ch 26 - Philosophical Foundations
 
 ## Course Policies
 **General**
