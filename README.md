@@ -32,7 +32,7 @@
 * Slides, Project Requirements, Tests, and Samples are inside the relevant folders at the Github location - https://github.com/badriadhikari/2019-Spring-AI/
 
 **Textbooks**
-* Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="book.jpg" align="middle" width="150"/>  
+* Artificial Intelligence: A Modern Approach (3rd Edition) <br/> <img src="syllabus/book.jpg" align="middle" width="150"/>  
 
 ## Course Schedule
 This schedule will be updated as the class progresses.  
