@@ -1,4 +1,4 @@
-<img src="syllabus/umsl.jpeg" align="middle" width="120"/>
+<img src="syllabus/umsl.png" align="middle" width="200"/>
 
 ## Artificial Intelligence - CMP SCI 4300/5300
 ## Syllabus - 2019 Spring
