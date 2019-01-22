@@ -78,8 +78,6 @@ This schedule will be updated as the class progresses.
 **Ch 3 - Solving Problems by Searching**  
 **Ch 3 - Solving Problems by Searching**  
 **Ch 5 - Adversarial Search**  
-**Ch 5 - Adversarial Search**  
-**Ch 5 - Adversarial Search**  
 **Ch 6 - Constraint Satisfaction Problems**  
 **Ch 7 - Logical Agents**  
 **Ch 6 - Constraint Satisfaction Problems**  
