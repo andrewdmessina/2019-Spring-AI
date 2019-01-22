@@ -39,7 +39,7 @@ This schedule will be updated as the class progresses.
 
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
-| 01 | 01 | Jan 22, Tue | Python and Numpy Tutorial |
+| 01 | 01 | Jan 22, Tue | Chapter 3 - Solving Problems by Searching |
 | 01 | 02 | Jan 24, Thu | |
 | 02 | 03 | Jan 29, Tue | |
 | 02 | 04 | Jan 31, Thu | |
