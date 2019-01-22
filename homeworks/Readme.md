@@ -1,7 +1,7 @@
 **Programming Homework 1**  
 DFS and BFS implementation  
 
-**Programming Homework 2**  
+**Homework 2**  
 Alpha-Beta pruning
 
 **Programming Homework 3**  
