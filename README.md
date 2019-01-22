@@ -103,9 +103,9 @@ This schedule will be updated as the class progresses.
 **Homeworks**
 * Homeworks need to be submitted through Canvas
 
-**Late Homework Submission** 
+**Late Homework/Project Submission** 
 * You have a total of 5 late days
-* Once you use your late days, late homework submissions will get no points
+* Once you use your late days, late submissions will get no points
 
 **Tests** 
 * There will be three tests including one final (see the schedule for dates)
