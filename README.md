@@ -74,6 +74,7 @@ This schedule will be updated as the class progresses.
 
 ## Course Topics
 **Chapter 3 - Solving Problems by Searching**  
+**Chapter 18 - Learning From Examples**  
 **Chapter 1 - Introduction**  
 **Chapter 2 - Intelligent Agents** 
 **Chapter 5 - Adversarial Search**  
@@ -81,7 +82,6 @@ This schedule will be updated as the class progresses.
 **Chapter 7 - Logical Agents**  
 **Chapter 6 - Constraint Satisfaction Problems**  
 **Chapter 14 - Probabilistic Reasoning**  
-**Chapter 18 - Learning From Examples**  
 **Chapter 22 - Natural Language Processing**  
 **Chapter 24 - Perception**  
 **Chapter 25 - Robotics**  
