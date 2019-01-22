@@ -55,11 +55,11 @@ This schedule will be updated as the class progresses.
 | 07 | 14 | Mar 07, Thu | |
 | 08 | 15 | Mar 12, Tue | |
 | 08 | 16 | Mar 14, Thu | |
-| 09 | 17 | Mar 19, Tue | Test 2|
+| 09 | 17 | Mar 19, Tue | |
 | 09 | 18 | Mar 21, Thu | |
 | - | - | - | Spring Recess |
 | 10 | 19 | Apr 02, Tue |  |
-| 10 | 20 | Apr 04, Thu |  |
+| 10 | 20 | Apr 04, Thu | Test 2 |
 | 11 | 21 | Apr 09, Tue |  |
 | 11 | 22 | Apr 11, Thu |  |
 | 12 | 23 | Apr 16, Tue |  |
