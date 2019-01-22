@@ -80,7 +80,8 @@ This schedule will be updated as the class progresses.
 **Chapter 6 - Constraint Satisfaction Problems**  
 **Chapter 7 - Logical Agents**  
 **Chapter 6 - Constraint Satisfaction Problems**  
-**Chapter 14 - Probabilistic Reasoning**
+**Chapter 14 - Probabilistic Reasoning**  
+**Chapter 18 - Learning From Examples**  
 **Chapter 22 - Natural Language Processing**  
 **Chapter 24 - Perception**  
 **Chapter 25 - Robotics**  
