@@ -102,6 +102,9 @@ This schedule will be updated as the class progresses.
 
 **Homeworks**
 * Homeworks need to be submitted through Canvas
+* You are encouraged to write your programs in Python; For every homework that you submit in a non-Python language you will get 0.5 points less than what you would receive if you submitted using Python
+* You are strongly encouraged to use online compilers such as [repl.it](https://repl.it); Or at least test your code using an online compiler
+* You are responsible for submitting a program that "RUNS"; You will automatically receive a 0 or very low points for a submission that does not run.
 
 **Late Homework/Project Submission** 
 * You have a total of 5 late days
