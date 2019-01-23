@@ -70,7 +70,7 @@ This schedule will be updated as the class progresses.
 | 14 | 28 | May 02, Thu | Project Code and Report Due |
 | 15 | 29 | May 07, Tue |  |
 | 15 | 30 | May 09, Thu | Test3 |
-| - | - | - | Final Exam - Poster Presentation (Date & Time TBD) |  
+| - | - | - | (Final Exam) - Poster Presentations on Tuesday, 14 May, 05:30 – 07:30 PM |  
 
 ## Course Topics
 **Chapter 3 - Solving Problems by Searching**  
