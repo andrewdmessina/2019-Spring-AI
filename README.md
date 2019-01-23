@@ -73,10 +73,10 @@ This schedule will be updated as the class progresses.
 | - | - | - | (Final Exam) - Poster Presentations on Tuesday, 14 May, 05:30 – 07:30 PM |  
 
 ## Course Topics
-**Chapter 3 - Solving Problems by Searching**  
-**Chapter 18 - Learning From Examples**  
 **Chapter 1 - Introduction**  
-**Chapter 2 - Intelligent Agents** 
+**Chapter 2 - Intelligent Agents**  
+**Chapter 18 - Learning From Examples**  
+**Chapter 3 - Solving Problems by Searching**  
 **Chapter 5 - Adversarial Search**  
 **Chapter 6 - Constraint Satisfaction Problems**  
 **Chapter 7 - Logical Agents**  
