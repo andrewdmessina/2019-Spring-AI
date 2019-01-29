@@ -40,7 +40,7 @@ This schedule will be updated as the class progresses.
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
 | 01 | 01 | Jan 22, Tue | Syllabus; Chapter 1 - Slides 1 to 28 |
-| 01 | 02 | Jan 24, Thu | |
+| 01 | 02 | Jan 24, Thu | Chapter 1 - Slides 29 to END; Chapter 2 - Slides 1 to 10 |
 | 02 | 03 | Jan 29, Tue | |
 | 02 | 04 | Jan 31, Thu | |
 | 03 | 05 | Feb 05, Tue | |
