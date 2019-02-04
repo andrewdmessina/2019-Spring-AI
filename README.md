@@ -46,7 +46,7 @@ This schedule will be updated as the class progresses.
 | 01 | 02 | Jan 24, Thu | Chapter 1 - Slides 29 to END; Chapter 2 - Slides 1 to 10 |
 | 02 | 03 | Jan 29, Tue | Chapter 2 - Slides 11 to END; Chapter 18 - Slides 1 to 24 |
 | 02 | 04 | Jan 31, Thu | Chapter 18 - Slides 25 to 34 |
-| 03 | 05 | Feb 05, Tue | Linear Regression Classwork (Chapter 18); Chapter 18 - Slides 35 to ? |
+| 03 | 05 | Feb 05, Tue | Discuss Syllabus; Linear Regression Classwork (Chapter 18); Chapter 18 - Slides 35 to ? |
 | 03 | 06 | Feb 07, Thu | |
 | 04 | 07 | Feb 12, Tue | |
 | 04 | 08 | Feb 14, Thu | |
