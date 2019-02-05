@@ -7,6 +7,6 @@ https://docs.google.com/presentation/d/1GFfhxmMspefqCIeSI8fmfTCw2T_R3GTiWaUZAUFk
 **Chapter 18**  
 https://docs.google.com/presentation/d/1LHKk29tAs1_sFZrSUmuXVpttRdFdlWbRc67eU2lhH3E/edit?usp=sharing
 
-**Chapter 3**
+**Chapter 3**  
 https://docs.google.com/presentation/d/1tfjl0BTHODrGnObvnwPh3DkpuM7l4sV2dhOPfWQC31Y/edit?usp=sharing
 
