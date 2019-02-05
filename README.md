@@ -51,7 +51,7 @@ This schedule will be updated as the class progresses.
 | 04 | 07 | Feb 12, Tue | |
 | 04 | 08 | Feb 14, Thu | |
 | 05 | 09 | Feb 19, Tue | |
-| 05 | 10 | Feb 21, Thu | Test 1 |
+| 05 | 10 | Feb 21, Thu | Test 1 (Covering Chapter 1, 2, 18 & 3)|
 | 06 | 11 | Feb 26, Tue | |
 | 06 | 12 | Feb 28, Thu | |
 | 07 | 13 | Mar 05, Tue | |
