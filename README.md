@@ -42,12 +42,12 @@ This schedule will be updated as the class progresses.
 
 | `Week` | `Day` | `Date` | `Topic` | 
 | --- | --- | --- | --- | 
-| 01 | 01 | Jan 22, Tue | Syllabus; Chapter 1 - Slides 1 to 28 |
-| 01 | 02 | Jan 24, Thu | Chapter 1 - Slides 29 to END; Chapter 2 - Slides 1 to 10 |
-| 02 | 03 | Jan 29, Tue | Chapter 2 - Slides 11 to END; Chapter 18 - Slides 1 to 24 |
-| 02 | 04 | Jan 31, Thu | Chapter 18 - Slides 25 to 34 |
-| 03 | 05 | Feb 05, Tue | Syllabus; Chapter 18 - Slide 24 (activity); Chapter 18 - Slides 35 to 47 |
-| 03 | 06 | Feb 07, Thu | |
+| 01 | 01 | Jan 22, Tue | Syllabus; Chapter 1 - Slide 1 to 28 |
+| 01 | 02 | Jan 24, Thu | Chapter 1 - Slide 29 to END; Chapter 2 - Slide 1 to 10 |
+| 02 | 03 | Jan 29, Tue | Chapter 2 - Slide 11 to END; Chapter 18 - Slide 1 to 24 |
+| 02 | 04 | Jan 31, Thu | Chapter 18 - Slide 25 to 34 |
+| 03 | 05 | Feb 05, Tue | Syllabus; Chapter 18 - Slide 24 (activity); Chapter 18 - Slide 35 to 47 |
+| 03 | 06 | Feb 07, Thu | Chapter 18 - Slide 48 to END |
 | 04 | 07 | Feb 12, Tue | |
 | 04 | 08 | Feb 14, Thu | |
 | 05 | 09 | Feb 19, Tue | |
