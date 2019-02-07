@@ -83,7 +83,6 @@ This schedule will be updated as the class progresses.
 **Chapter 5 - Adversarial Search**  
 **Chapter 6 - Constraint Satisfaction Problems**  
 **Chapter 7 - Logical Agents**  
-**Chapter 6 - Constraint Satisfaction Problems**  
 **Chapter 14 - Probabilistic Reasoning**  
 **Chapter 22 - Natural Language Processing**  
 **Chapter 24 - Perception**  
