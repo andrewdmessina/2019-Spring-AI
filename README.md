@@ -48,10 +48,10 @@ This schedule will be updated as the class progresses.
 | 02 | 04 | Jan 31, Thu | Chapter 18 - Slide 25 to 34 |
 | 03 | 05 | Feb 05, Tue | Syllabus; Chapter 18 - Slide 24 (activity); Chapter 18 - Slide 35 to 47 |
 | 03 | 06 | Feb 07, Thu | Chapter 18 - Slide 48 to END; Chapter 3 - Slide 1 to 12 |
-| 04 | 07 | Feb 12, Tue | |
+| 04 | 07 | Feb 12, Tue | Chapter 3 - Slide 13 to 48 |
 | 04 | 08 | Feb 14, Thu | |
-| 05 | 09 | Feb 19, Tue | |
-| 05 | 10 | Feb 21, Thu | Test 1 (Covering Chapter 1, 2, 18 & 3)|
+| 05 | 09 | Feb 19, Tue | Discuss Questions |
+| 05 | 10 | Feb 21, Thu | TEST 1 (Covering Chapter 1, 2, 18 & 3)|
 | 06 | 11 | Feb 26, Tue | |
 | 06 | 12 | Feb 28, Thu | |
 | 07 | 13 | Mar 05, Tue | |
