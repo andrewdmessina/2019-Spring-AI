@@ -6,11 +6,11 @@ With your choice of programming language, implement the Breadth First Search alg
 For the following game tree, show which nodes/sub-tree will be pruned by the Alpha-Beta pruning algorithm. Assume that the nodes are processed from left to right.  
 <img src="alpha-beta.png" align="middle" width="450"/>
 
-**Programming Homework 3**  
+### Programming Homework 3
 BM25 scoring
 
-**Programming Homework 4**  
+### Programming Homework 4  
 PageRank calculation
 
-**Programming Homework 5**  
-Implement convolution
+### Programming Homework 5   
+Implement convolution function
