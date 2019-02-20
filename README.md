@@ -51,7 +51,7 @@ This schedule will be updated as the class progresses.
 | 04 | 07 | Feb 12, Tue | Chapter 3 - Slide 13 to 48 |
 | 04 | 08 | Feb 14, Thu | Chapter 3 - Slide 49 to 72 |
 | 05 | 09 | Feb 19, Tue | Review Questions for TEST 1 |
-| 05 | 10 | Feb 21, Thu | TEST 1 (Covering Chapter 1, 2, 18 & 3)|
+| 05 | 10 | Feb 21, Thu | TEST 1 (Covering Chapter 1, 2, 18 & 3 (upto BFS))|
 | 06 | 11 | Feb 26, Tue | |
 | 06 | 12 | Feb 28, Thu | |
 | 07 | 13 | Mar 05, Tue | |
