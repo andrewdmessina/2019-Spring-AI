@@ -55,7 +55,7 @@ This schedule will be updated as the class progresses.
 | 06 | 11 | Feb 26, Tue | |
 | 06 | 12 | Feb 28, Thu | |
 | 07 | 13 | Mar 05, Tue | |
-| 07 | 14 | Mar 07, Thu | |
+| 07 | 14 | Mar 07, Thu | Discussion of Project Ideas |
 | 08 | 15 | Mar 12, Tue | |
 | 08 | 16 | Mar 14, Thu | |
 | 09 | 17 | Mar 19, Tue | |
