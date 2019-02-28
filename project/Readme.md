@@ -20,7 +20,7 @@
  
 ## Example 
 Heart disease prediction using the Heart Disease UCI dataset at https://www.kaggle.com/ronitf/heart-disease-uci
-<img src="ai-project.png" align="middle" width="700"/>
+<img src="ai-project.png" align="middle" width="900"/>
 
 
 Note: This is a living document and will be updated (with more details) throughout the semester. 
